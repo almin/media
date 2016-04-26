@@ -2,6 +2,22 @@
 
 ![logo](logo/logo.png)
 
+## Copy & Paste Code
+
+![Almin.js logo](logo/logo.png)
+
+```markdown
+![Almin.js logo](https://almin.github.io/media/logo/logo.png)
+````
+
+![Almin.js Icon](icon/icon.png)
+
+```markdown
+![Almin.js Icon](https://almin.github.io/media/icon/icon.png)
+```
+
+## License
+
 Created by [@azu](https://github.com/azu)
 
 <p>
@@ -17,20 +33,6 @@ Created by [@azu](https://github.com/azu)
   has waived all copyright and related or neighboring rights to
   <span property="dct:title">Almin.js logo</span>.
 </p>
-
-## Copy & Paste Code
-
-![Almin.js logo](logo/logo.png)
-
-```markdown
-![Almin.js logo](https://almin.github.io/media/logo/logo.png)
-````
-
-![Almin.js Icon](icon/icon.png)
-
-```markdown
-![Almin.js Icon](https://almin.github.io/media/icon/icon.png)
-```
 
 ## Credits
 
